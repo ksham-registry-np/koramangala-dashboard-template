@@ -1,0 +1,15 @@
+{
+    "id": "koramangala-dashboard",
+    "title": "Koramangala Stock Ticker Lag",
+    "difficulty": "HARD",
+    "category": "UI",
+    "description": "Optimize a React dashboard to prevent expensive re-renders.",
+    "duration": "60m",
+    "tags": [
+        "React",
+        "Performance",
+        "Hooks",
+        "Optimization"
+    ],
+    "templateRepo": "https://github.com/ksham-registry-np/koramangala-dashboard-template"
+}

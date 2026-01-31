@@ -1,0 +1,13 @@
+{
+    "name": "fin-ledger-sync-template",
+    "version": "1.0.0",
+    "description": "Ksham Challenge: FinTech Ledger Reconciliation",
+    "main": "src/reconciler.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
